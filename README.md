@@ -1,10 +1,10 @@
-Hi, I'm Shree 👋
+## Hi, I'm Shree 👋
 
 I'm an MBA Tech (Computer Engineering) student at NMIMS with an interest in Business Analytics, Business Intelligence, Data Visualization, and data-driven decision making.
 
 I enjoy working with data to identify patterns, quantify trends, build analytical solutions, and translate findings into meaningful business insights.
 
-💫 About Me
+# 💫 About Me
 🎓 MBA Tech (Computer Engineering) student at NMIMS, Mumbai
 📊 Interested in Business Analytics, Business Intelligence, and Data Visualization
 📈 Experience working with Power BI, Power Query, DAX, Python, SQL, and statistical analysis
@@ -13,22 +13,22 @@ I enjoy working with data to identify patterns, quantify trends, build analytica
 ⚡ Built and deployed RecruiteIQ, a full-stack machine-learning application for automated resume screening with a fairness-audit component
 🛠️ Core Skills
 
-Business & Analytics: Business Analytics, KPI Analysis, Data Interpretation, Data-Driven Decision Making, Analytical Problem Solving, Statistical Analysis
+# Business & Analytics: Business Analytics, KPI Analysis, Data Interpretation, Data-Driven Decision Making, Analytical Problem Solving, Statistical Analysis
 
-Business Intelligence & Visualization: Power BI, Power Query, DAX, Tableau, Matplotlib, Plotly
+# Business Intelligence & Visualization: Power BI, Power Query, DAX, Tableau, Matplotlib, Plotly
 
-Programming & Data: Python, SQL, Pandas, NumPy, Scikit-learn
+# Programming & Data: Python, SQL, Pandas, NumPy, Scikit-learn
 
-📊 Featured Projects
-📈 Trade Finance Analytics — Factoring & Forfaiting in India
+## 📊 Featured Projects
+# 📈 Trade Finance Analytics — Factoring & Forfaiting in India
 
 Analysed multi-year factoring and export data to identify growth trends, market patterns and business insights. Built Power BI dashboards using Power Query and DAX to visualize KPIs and translate quantitative findings into actionable insights.
 
-🏆 Employee Attrition Prediction
+# 🏆 Employee Attrition Prediction
 
 Predictive analytics project analysing employee, workload and performance factors to identify attrition drivers. Developed Decision Tree and Random Forest models and translated model findings into recommendations around workload, project allocation, promotions and overtime.
 
-🤖 RecruiteIQ
+# 🤖 RecruiteIQ
 
 Full-stack machine-learning application for automated resume screening with an emphasis on explainability and fairness auditing, combining predictive modelling with an application-oriented implementation.
 
