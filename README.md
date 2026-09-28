@@ -36,6 +36,8 @@ Full-stack machine-learning application for automated resume screening with an e
 ## 🌐 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sreeparna-bal-07348432b) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shree21850@gmail.com) 
 
+
+
 **📊 GitHub Stats:**
 
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=shree872&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
