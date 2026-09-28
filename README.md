@@ -5,7 +5,7 @@ I'm an MBA Tech (Computer Engineering) student at NMIMS with an interest in Busi
 I enjoy working with data to identify patterns, quantify trends, build analytical solutions, and translate findings into meaningful business insights.
 
 # 💫 About Me
--🎓 MBA Tech (Computer Engineering) student at NMIMS, Mumbai
+- 🎓 MBA Tech (Computer Engineering) student at NMIMS, Mumbai
 -📊 Interested in Business Analytics, Business Intelligence, and Data Visualization
 -📈 Experience working with Power BI, Power Query, DAX, Python, SQL, and statistical analysis
 -💡 Interested in applying analytical and problem-solving skills to business and finance-related problems
