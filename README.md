@@ -13,29 +13,29 @@ I enjoy working with data to identify patterns, quantify trends, build analytica
 -⚡ Built and deployed RecruiteIQ, a full-stack machine-learning application for automated resume screening with a fairness-audit component
 -🛠️ Core Skills
 
-# Business & Analytics: Business Analytics, KPI Analysis, Data Interpretation, Data-Driven Decision Making, Analytical Problem Solving, Statistical Analysis
+**Business & Analytics**: Business Analytics, KPI Analysis, Data Interpretation, Data-Driven Decision Making, Analytical Problem Solving, Statistical Analysis
 
-# Business Intelligence & Visualization: Power BI, Power Query, DAX, Tableau, Matplotlib, Plotly
+**Business Intelligence & Visualization**: Power BI, Power Query, DAX, Tableau, Matplotlib, Plotly
 
-# Programming & Data: Python, SQL, Pandas, NumPy, Scikit-learn
+**Programming & Data**: Python, SQL, Pandas, NumPy, Scikit-learn
 
 ## 📊 Featured Projects
-# 📈 Trade Finance Analytics — Factoring & Forfaiting in India
+**📈 Trade Finance Analytics — Factoring & Forfaiting in India**
 
 Analysed multi-year factoring and export data to identify growth trends, market patterns and business insights. Built Power BI dashboards using Power Query and DAX to visualize KPIs and translate quantitative findings into actionable insights.
 
-# 🏆 Employee Attrition Prediction
+**🏆 Employee Attrition Prediction**
 
 Predictive analytics project analysing employee, workload and performance factors to identify attrition drivers. Developed Decision Tree and Random Forest models and translated model findings into recommendations around workload, project allocation, promotions and overtime.
 
-# 🤖 RecruiteIQ
+**🤖 RecruiteIQ**
 
 Full-stack machine-learning application for automated resume screening with an emphasis on explainability and fairness auditing, combining predictive modelling with an application-oriented implementation.
 
 ## 🌐 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sreeparna-bal-07348432b) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shree21850@gmail.com) 
 
-# 📊 GitHub Stats:
+**📊 GitHub Stats:**
 
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=shree872&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
