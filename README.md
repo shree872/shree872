@@ -5,13 +5,13 @@ I'm an MBA Tech (Computer Engineering) student at NMIMS with an interest in Busi
 I enjoy working with data to identify patterns, quantify trends, build analytical solutions, and translate findings into meaningful business insights.
 
 # 💫 About Me
-🎓 MBA Tech (Computer Engineering) student at NMIMS, Mumbai
-📊 Interested in Business Analytics, Business Intelligence, and Data Visualization
-📈 Experience working with Power BI, Power Query, DAX, Python, SQL, and statistical analysis
-💡 Interested in applying analytical and problem-solving skills to business and finance-related problems
-🚀 Built analytical projects involving trade finance, predictive modelling, dashboards, and business recommendations
-⚡ Built and deployed RecruiteIQ, a full-stack machine-learning application for automated resume screening with a fairness-audit component
-🛠️ Core Skills
+-🎓 MBA Tech (Computer Engineering) student at NMIMS, Mumbai
+-📊 Interested in Business Analytics, Business Intelligence, and Data Visualization
+-📈 Experience working with Power BI, Power Query, DAX, Python, SQL, and statistical analysis
+-💡 Interested in applying analytical and problem-solving skills to business and finance-related problems
+-🚀 Built analytical projects involving trade finance, predictive modelling, dashboards, and business recommendations
+-⚡ Built and deployed RecruiteIQ, a full-stack machine-learning application for automated resume screening with a fairness-audit component
+-🛠️ Core Skills
 
 # Business & Analytics: Business Analytics, KPI Analysis, Data Interpretation, Data-Driven Decision Making, Analytical Problem Solving, Statistical Analysis
 
