@@ -11,7 +11,8 @@ I enjoy working with data to identify patterns, quantify trends, build analytica
 - 💡 Interested in applying analytical and problem-solving skills to business and finance-related problems
 - 🚀 Built analytical projects involving trade finance, predictive modelling, dashboards, and business recommendations
 - ⚡ Built and deployed RecruiteIQ, a full-stack machine-learning application for automated resume screening with a fairness-audit component
-- 🛠️ Core Skills
+
+# 🛠️ Core Skills
 
 **Business & Analytics**: Business Analytics, KPI Analysis, Data Interpretation, Data-Driven Decision Making, Analytical Problem Solving, Statistical Analysis
 
